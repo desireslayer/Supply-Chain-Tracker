@@ -1,6 +1,3 @@
-# Supply-Chain-Tracker
-Track products from manufacturer to consumer with each step recorded on the blockchain.
-
 # Supply Chain Tracker
 
 ## Project Title
@@ -154,4 +151,3 @@ let stats = contract.view_chain_stats(env);
 **Built with ❤️ on Stellar using Soroban SDK**
 
 ## Contract Details
-
